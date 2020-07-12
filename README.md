@@ -1,2 +1,2 @@
 # UberTrip
-Faire un clustering des courses des taxi dans la ville de New York 
+Faire un clustering des courses des taxis dans la ville de New York 
