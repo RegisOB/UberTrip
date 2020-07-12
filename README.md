@@ -1,5 +1,5 @@
 # UberTrip
-Faire un clustering des courses des taxis dans la ville de New York 
+Faire un clustering des courses des taxis UBER dans la ville de New York 
 
 ## Exploration Data analysis
 ![](Figs/Fig1.png)
